@@ -1,6 +1,5 @@
 Hi 👋, I'm olalekan 
 Passionate  Web Developer
-🔭 I’m currently working on my Skills
 
 🌱 I’m currently learning React, Java and Python
 
