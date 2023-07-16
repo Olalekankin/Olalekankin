@@ -1,5 +1,6 @@
 Hi 👋, I'm olalekan 
-Passionate Frontend Engineer
+
+🔥 A Passionate Frontend Engineer
 
 🌱 I’m proficient with React, Python and Laravel
 
