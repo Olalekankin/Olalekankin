@@ -1,9 +1,9 @@
 Hi 👋, I'm olalekan 
-Passionate  Web Developer
+Passionate Frontend Engineer
 
-🌱 I’m currently learning React, Java and Python
+🌱 I’m proficient with React, Python and Laravel
 
-👯 I’m looking to collaborate on  Projects dealing with  CSS and Vanilla Javascript
+👯 I’m looking to collaborate on  Projects solving real life issues
 
 🤝 Always ready to learn new skills.
 
