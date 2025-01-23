@@ -1,8 +1,8 @@
 Hi 👋, I'm olalekan 
 
-🔥 A Passionate Frontend Engineer
+🔥 A Passionate Software Engineer
 
-🌱 I’m proficient with React, Python and Laravel
+🌱 I’m proficient with JavaScript, Python and PHP
 
 👯 I’m looking to collaborate on  Projects solving real life issues
 
